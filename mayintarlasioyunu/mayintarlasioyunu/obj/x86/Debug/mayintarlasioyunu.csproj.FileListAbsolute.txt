@@ -1,0 +1,17 @@
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\mayintarlasioyunu.Form1.resources
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\mayintarlasioyunu.csproj.GenerateResource.cache
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\mayintarlasioyunu.csproj.CoreCompileInputs.cache
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+C:\Users\meren\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\Oyunnn.exe
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\Oyunnn.pdb
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\mayintarlasioyunu.csprojAssemblyReference.cache
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\mayintarlasioyunu.Form1.resources
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\mayintarlasioyunu.csproj.GenerateResource.cache
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\mayintarlasioyunu.csproj.CoreCompileInputs.cache
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\Oyunnn.exe
+C:\Users\meren\Desktop\mayintarlasioyunu\mayintarlasioyunu\obj\x86\Debug\Oyunnn.pdb
